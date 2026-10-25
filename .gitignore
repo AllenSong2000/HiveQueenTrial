@@ -1,0 +1,3 @@
+# release zips live on the Releases page, never in the tree
+*.zip
+__pycache__/
