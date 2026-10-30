@@ -10,7 +10,7 @@ One set of zips per game build: file names carry `HK1.5.12620` (current build) o
 
 ### Vespa
 Hive Queen Vespa — the queen's ghost deep in the Hive, beside her body. Once you own the **Hiveblood** charm, strike her with the Dream Nail to enter the dream fight. In Godhome a new statue of her stands on the first floor of the Hall of Gods (three tiers), and she also appears in the Pantheon of Hallownest.
-The first dream victory upgrades Hiveblood into **Hive Queen's Blood**, with its own charm icon. Comes with her own battle track "Hive Queen" and a Hunter's Journal entry.
+The first dream victory upgrades Hiveblood into **Hive Queen's Blood**, with its own charm icon. Comes with her own battle track "Hive Queen" and a Hunter's Journal entry. Once her statue has been cleared at any tier, dream-nail the orb on its base to face the **Absolute Hive Queen**, a far harder version of the fight.
 
 ### GrimmFlamewing
 Grimm's **Crimson Wings** — one extra move for the native Troupe Master Grimm (tent fight and Hall of Gods): he teleports high above the arena centre, spreads his cape and fires 3 / 5 / 7 / 9 waves of straight-flying firebats, with three ground pillars under each wave.
@@ -57,7 +57,7 @@ Hollow Knight 非官方 boss 模组合集:**Vespa**(蜂巢女王维斯帕,一场
 ### 内容
 
 **Vespa** —— 蜂巢女王维斯帕:蜂巢深处蜂后遗体旁的鬼魂,拿到蜂巢之血护符后,用梦之钉入梦开打;神居万神殿大厅新增她的雕像(三档难度),圣巢万神殿里也有她。
-首次梦中获胜后,蜂巢之血升级为「蜂后之血」,有自己的护符图标。自带战斗曲《Hive Queen》与猎人日志条目。
+首次梦中获胜后,蜂巢之血升级为「蜂后之血」,有自己的护符图标。自带战斗曲《Hive Queen》与猎人日志条目。雕像任意一档打过之后,用梦之钉点亮底座的球,可以挑战难得多的「无上蜂后」。
 
 **GrimmFlamewing** —— 格林「猩红之翼」:给原版的剧团团长格林(帐篷战与神居)加一招空中扇形火蝠齐射,传送到场地中央高处张开斗篷,按血量放 3 / 5 / 7 / 9 波直飞火蝠,每波脚下三根地火柱。
 由格林自己的随机选招挑出,入场、血量、阶段、奖励一概不动。顺带修了原版黑蝙蝠群只往一边漂的掷骰 bug(模组菜单可关)。
